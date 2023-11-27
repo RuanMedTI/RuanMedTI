@@ -3,7 +3,7 @@ Hey 😁
 
 My name is Ruan Medeiros, i’m from Brazil ✌️
 
-I’m starting my career! 👨‍💻
+C#/.NET - 2Y+ WORK EXPERIENCE
 
 You can see some of my repositories here 👇
 
